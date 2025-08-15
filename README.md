@@ -152,10 +152,10 @@ Here’s the structure of a typical machine response:
 
 - You can filter and display machines based on these issues:
   - Disk encryption off.
-  - OS update `latest` contains "update available" (case-insensitive).
+  - OS update `latest` contains "update available".
   - Antivirus not installed or not active.
   - Sleep timeout > 10 minutes.
-`.
+
 
 ## 🔐 Security
 
