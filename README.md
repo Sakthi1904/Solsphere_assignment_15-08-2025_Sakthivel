@@ -8,7 +8,7 @@ A cross-platform utility for monitoring and managing system health across macOS,
 
 ## 📸 **Screenshot**
 
-![Admin Dashboard UI](frontend/public/dashboard.png)
+![Admin Dashboard UI](Solsphere_assignment_15-08-2025_Sakthivel/dashboard.png)
 
 ---
 
